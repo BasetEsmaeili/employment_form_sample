@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bg_edt_corner_readius">8dp</dimen>
+    <dimen name="stn_padding">8dp</dimen>
+    <dimen name="stn_margin">8dp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">فراستخدام</string>
+    <string name="signUp">استخدام برنامه نویس اندروید در سازمان فنی حرفه ای</string>
+    <string name="name">نام و نام خانوادگی</string>
+    <string name="phone_number">شماره تماس</string>
+    <string name="work_experience">سابقه برنامه نویسی دارم</string>
+    <string name="number_work_expiernce">تعداد سال های سابقه کاری</string>
+    <string name="name_and_phone_not_be_empty">نام و شماره تلفن باید پر شود</string>
+    <string name="not_have_college">شما که تحصیلات هم نداری پس چکاره ای؟ :|</string>
+</resources>
